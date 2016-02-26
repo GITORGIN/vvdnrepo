@@ -1,0 +1,23 @@
+From ba1bfe4b19ee48f359a9c45ee3cf9082a007a49c Mon Sep 17 00:00:00 2001
+From: Prasath <anandha.kumar@vvdntech.in>
+Date: Fri, 26 Feb 2016 18:13:08 +0530
+Subject: [PATCH] Added my string function
+
+---
+ string.c | 4 ++++
+ 1 file changed, 4 insertions(+)
+ create mode 100644 string.c
+
+diff --git a/string.c b/string.c
+new file mode 100644
+index 0000000..18476a5
+--- /dev/null
++++ b/string.c
+@@ -0,0 +1,4 @@
++#incldue<stdio.h>
++main()
++{
++}
+-- 
+1.9.1
+
