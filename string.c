@@ -1,0 +1,4 @@
+#incldue<stdio.h>
+main()
+{
+}
